@@ -6,6 +6,7 @@ body{
 }
 section{
     display: flex;
+    margin: 100px;
 }
 .half-width{
     width: 50%;
@@ -18,7 +19,16 @@ section{
     text-decoration: none;
     background-image: linear-gradient(orangered,yellow);
     padding: 10px 40px;
-   border-radius: 50px;
+    color: white;
+    font-weight: 800;
+    border-radius: 50px;
+}
+.about-me{
+    background-image: url(images/7.png);
+    
+}
+h2{
+    color: orangered;
 }
    
     
